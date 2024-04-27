@@ -13,7 +13,7 @@
     height: 837px;
     /* background-color: rgb(238, 233, 218); */
     background: #FFF8F3;
-    background-image: url("C:/Users/ACER/Desktop/HTML/Portfolio_Practice/images/developer.PNG"), url("C:/Users/ACER/Desktop/HTML/Portfolio_Practice/images/hardy.PNG"),url("C:/Users/ACER/Desktop/HTML/Portfolio_Practice/images/header_bg.PNG");
+    background-image: url("images/developer.PNG"), url("/images/hardy.PNG"),url("/images/header_bg.PNG");
     background-position: 3%, right bottom , right bottom;
     background-repeat: no-repeat, no-repeat, no-repeat;
 }
